@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1493749463 source:c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\main.cpp
+	<iostream>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<iomanip>
+	"sList.h"
+	"sNode.h"
+	"sReserve.h"
+
+1492825121 source:c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\seatnode.cpp
+	"seatnode.h"
+
+1492825363 c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\seatnode.h
+	"slist.h"
+
+1493607436 c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\slist.h
+	"sNode.h"
+	"sReserve.h"
+
+1493607436 source:c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\slist.cpp
+	"sList.h"
+
+1493330352 c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\include\slist.h
+	"sNode.h"
+	"reservation.h"
+	<iostream>
+
+1493332145 source:c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\snode.cpp
+	"sNode.h"
+
+1493607436 c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\snode.h
+
+1492980302 source:c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\src\slist.cpp
+	"sList.h"
+	<iostream>
+
+1493087976 c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\include\snode.h
+
+1492902582 source:c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\src\snode.cpp
+	"sNode.h"
+
+1493088014 source:c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\src\reservation.cpp
+	"reservation.h"
+
+1493330607 c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\include\reservation.h
+	"sNode.h"
+	"sList.h"
+
+1493607727 c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\sreserve.h
+	"sNode.h"
+	<iostream>
+	<fstream>
+
+1493607821 source:c:\users\troy frazier\college related\cs - 1337\cs projects\project 5 gotg\sreserve.cpp
+	"sReserve.h"
+
+1494182504 source:c:\users\troy frazier\college related\cs - 1337(completed)\cs projects\project 5 gotg\main.cpp
+	<iostream>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<iomanip>
+	"sList.h"
+	"sNode.h"
+	"sReserve.h"
+
+1493607436 c:\users\troy frazier\college related\cs - 1337(completed)\cs projects\project 5 gotg\slist.h
+	"sNode.h"
+	"sReserve.h"
+
+1493607436 c:\users\troy frazier\college related\cs - 1337(completed)\cs projects\project 5 gotg\snode.h
+
+1493607727 c:\users\troy frazier\college related\cs - 1337(completed)\cs projects\project 5 gotg\sreserve.h
+	"sNode.h"
+	<iostream>
+	<fstream>
+
+1493607436 source:c:\users\troy frazier\college related\cs - 1337(completed)\cs projects\project 5 gotg\slist.cpp
+	"sList.h"
+
+1493607821 source:c:\users\troy frazier\college related\cs - 1337(completed)\cs projects\project 5 gotg\sreserve.cpp
+	"sReserve.h"
+
