@@ -10,3 +10,9 @@ C:\Users\Troy Frazier\College Related\Comp Programs\MovieSub\MovieSubMain\bin\De
 C:\Users\Troy Frazier\College Related\Comp Programs\MovieSub\MovieSubMain\obj\Debug\MovieSubMain.csprojResolveAssemblyReference.cache
 C:\Users\Troy Frazier\College Related\Comp Programs\MovieSub\MovieSubMain\obj\Debug\MovieSubMain.exe
 C:\Users\Troy Frazier\College Related\Comp Programs\MovieSub\MovieSubMain\obj\Debug\MovieSubMain.pdb
+C:\Users\Troy Frazier\Desktop\Auditorium_Reservation-working\Auditorium_Reservation-working\MovieSub\MovieSubMain\bin\Debug\MovieSubMain.exe.config
+C:\Users\Troy Frazier\Desktop\Auditorium_Reservation-working\Auditorium_Reservation-working\MovieSub\MovieSubMain\bin\Debug\MovieSubMain.exe
+C:\Users\Troy Frazier\Desktop\Auditorium_Reservation-working\Auditorium_Reservation-working\MovieSub\MovieSubMain\bin\Debug\MovieSubMain.pdb
+C:\Users\Troy Frazier\Desktop\Auditorium_Reservation-working\Auditorium_Reservation-working\MovieSub\MovieSubMain\obj\Debug\MovieSubMain.csprojResolveAssemblyReference.cache
+C:\Users\Troy Frazier\Desktop\Auditorium_Reservation-working\Auditorium_Reservation-working\MovieSub\MovieSubMain\obj\Debug\MovieSubMain.exe
+C:\Users\Troy Frazier\Desktop\Auditorium_Reservation-working\Auditorium_Reservation-working\MovieSub\MovieSubMain\obj\Debug\MovieSubMain.pdb
